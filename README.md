@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil do Dev em Dobro 😁
 
  <div>
-   <a href="https://github.com/alicio025">
+   <a href="https://discord.com/channels/821364094878613524/935906121858818059">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alicio025&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicio025&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
