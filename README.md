@@ -11,7 +11,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="NODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Node/Node-original.svg">
+  <img align="center" alt="NODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol-png-clipart/green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol-png-clipart-original.svg">
   
 </div>
  
